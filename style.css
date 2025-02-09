@@ -160,7 +160,7 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
-=======
+
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
