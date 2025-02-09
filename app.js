@@ -7,4 +7,4 @@ log.console(CambioDeTitulo);
 log.console(listaDeAmigos);
 log.console(listaDeParticipantes);
 
-.
+
