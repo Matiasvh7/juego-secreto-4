@@ -1,2 +1,7 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el prob
 alert("Comenzando el juego")
+let listaDeParticipantes = [];
+
+log.console(listaDeParticipantes);
+
+
